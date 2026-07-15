@@ -1,0 +1,2 @@
+pyfirmata2>=2.4.4
+pyserial>=3.5
